@@ -19,7 +19,8 @@ C++语法笔记
    docs/第9章 算法/index
    docs/第10章 语言特性/index
    docs/第11章 C++11新标准/index
-
+   docs/第99章 RTD_BuildTest/index
+   
 README
 =================================
 .. toctree::
